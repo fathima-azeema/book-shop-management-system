@@ -1,0 +1,14 @@
+C:\Users\code studio global\Pictures\BookshopManagementSystem\bin\Debug\BookshopManagementSystem.exe.config
+C:\Users\code studio global\Pictures\BookshopManagementSystem\bin\Debug\BookshopManagementSystem.exe
+C:\Users\code studio global\Pictures\BookshopManagementSystem\bin\Debug\BookshopManagementSystem.pdb
+C:\Users\code studio global\Pictures\BookshopManagementSystem\obj\Debug\BookshopManagementSystem.csproj.AssemblyReference.cache
+C:\Users\code studio global\Pictures\BookshopManagementSystem\obj\Debug\BookshopManagementSystem.Form1.resources
+C:\Users\code studio global\Pictures\BookshopManagementSystem\obj\Debug\BookshopManagementSystem.Form2.resources
+C:\Users\code studio global\Pictures\BookshopManagementSystem\obj\Debug\BookshopManagementSystem.Form3.resources
+C:\Users\code studio global\Pictures\BookshopManagementSystem\obj\Debug\BookshopManagementSystem.Properties.Resources.resources
+C:\Users\code studio global\Pictures\BookshopManagementSystem\obj\Debug\BookshopManagementSystem.csproj.GenerateResource.cache
+C:\Users\code studio global\Pictures\BookshopManagementSystem\obj\Debug\BookshopManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\code studio global\Pictures\BookshopManagementSystem\obj\Debug\BookshopManagementSystem.exe
+C:\Users\code studio global\Pictures\BookshopManagementSystem\obj\Debug\BookshopManagementSystem.pdb
+C:\Users\code studio global\Pictures\BookshopManagementSystem\obj\Debug\BookshopManagementSystem.Form4.resources
+C:\Users\code studio global\Pictures\BookshopManagementSystem\obj\Debug\BookshopManagementSystem.Form5.resources
